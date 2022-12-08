@@ -152,9 +152,7 @@ const Wrapper = styled.section`
     }
 
     footer {
-      padding: 9rem 0 9rem 0;
-    }
-
+      padding: 9rem 0 9rem 0
     .footer-bottom--section {
       padding-top: 4.8rem;
     }
